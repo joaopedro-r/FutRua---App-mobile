@@ -5,6 +5,8 @@ Projeto de desenvolvimento de um aplicativo mobile de futebol voltado para o pub
 - Lógica de programação
 - Gerenciamento de lista
 - POO (Programação Orientada a Objeto)
+- Versionamento de código
+- Deploy para produção
 
 ## Ferramentas
 - Visual Studio Code
