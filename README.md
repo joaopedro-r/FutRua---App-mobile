@@ -8,6 +8,7 @@ O objetivo do aplicativo FutRua é facilitar a organização e gestão de partid
 - Visual Studio Code
 - Adobe Photoshop
 - GitHub
+- Emulador Android Studio
 
 ## Tecnologias
 - Flutter
