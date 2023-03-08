@@ -1,8 +1,5 @@
 # FutRua
-Projeto de desenvolvimento de um aplicativo mobile de futebol voltado para o publico esportivo utilizando o Framework Flutter.
-
-## Objetivo
-O objetivo do aplicativo FutRua é facilitar a organização e gestão de partidas de futebol entre amigos. Com ele, os usuários podem definir o número de jogadores em cada equipe, escolher o tempo da partida e contar com um sistema automatizado para sortear as equipes e gerenciar o placar.
+Projeto de desenvolvimento de um aplicativo mobile de futebol voltado para o publico esportivo utilizando o Framework Flutter. O objetivo do aplicativo FutRua é facilitar a organização e gestão de partidas de futebol entre amigos. Com ele, os usuários podem definir o número de jogadores em cada equipe, escolher o tempo da partida e contar com um sistema automatizado para sortear as equipes e gerenciar o placar.
 
 ## Ferramentas
 - Visual Studio Code
