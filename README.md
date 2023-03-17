@@ -7,6 +7,7 @@ Projeto de desenvolvimento de um aplicativo mobile de futebol voltado para o pub
 - POO (Programação Orientada a Objeto)
 - Versionamento de código
 - Deploy para produção
+- Persistência de dados
 
 ## Ferramentas
 - Visual Studio Code
